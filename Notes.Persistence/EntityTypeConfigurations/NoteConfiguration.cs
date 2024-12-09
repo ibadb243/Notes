@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using Nodes.Domain;
+using Notes.Domain;
 using System;
 using System.Collections.Generic;
 using System.Linq;

@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Nodes.Domain;
+using Notes.Domain;
 using System;
 using System.Collections.Generic;
 using System.Linq;
